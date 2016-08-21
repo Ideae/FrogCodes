@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: b47dd8ebc086d9841b5abdbc5bc51dc3
+timeCreated: 1471734093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: flower_0
+    21300002: flower_1
+    21300004: flower_2
+    21300006: flower_3
+    21300008: flower_4
+    21300010: flower_5
+    21300012: flower_6
+    21300014: flower_7
+    21300016: flower_8
+    21300018: flower_9
+    21300020: flower_10
+    21300022: flower_11
+    21300024: flower_12
+    21300026: flower_13
+    21300028: flower_14
+    21300030: flower_15
+    21300032: flower_16
+    21300034: flower_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: flower_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 69
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 69
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 69
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 37
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: flower_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
