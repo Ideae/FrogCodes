@@ -80,7 +80,7 @@ public class LevelManager : MonoBehaviour {
     }
 
     GameObject frogPrefab = Resources.Load<GameObject>("Frog");
-    GameObject flowerPrefab = Resources.Load<GameObject>("Flower");
+    GameObject flowerPrefab = Resources.Load<GameObject>("GreenFlower");
     
     Random.seed = seed;
     int frogCount = Random.Range(1, 5);
@@ -88,14 +88,31 @@ public class LevelManager : MonoBehaviour {
 
     for(int i = 0; i < frogCount; i++)
     {
-      Point p = new Point(0, 0);
-      //do
-      //{
-      //  p.x = (int)Random.Range(-Game.halfWidth, Game.halfWidth);
-      //  p.y = (int)Random.Range(-Game.halfHeight, Game.halfHeight);
-      //  print(p.x + " : " + p.y);
-      //} while (points.Contains(p));
-      points.Add(p);
+      
+      int ccc = 0;
+      while(ccc < 1000)
+      {
+        ccc++;
+        Point p = new Point(0, 0);
+        p.x = Random.Range(-(int)Game.halfWidth, (int)Game.halfWidth);
+        p.y = Random.Range(-(int)Game.halfHeight, (int)Game.halfHeight);
+        print(p.x + " : " + p.y);
+        bool notfound = true;
+        foreach(var pp in points)
+        {
+          if (pp.x == p.x && pp.y == p.y)
+          {
+            notfound = false;
+          }
+        }
+        if (notfound)
+        {
+          points.Add(p);
+          break;
+        }
+
+      }
+      
     }
     int counter = 0;
     foreach(Point p in points)
